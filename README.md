@@ -1,1 +1,1 @@
-# pinterest-redirects
+# Pinterest Redirects
